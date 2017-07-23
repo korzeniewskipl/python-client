@@ -110,7 +110,7 @@ The following are available attributes, and may be passed when instantiating a `
 * `url` - A string giving the URL against which the request should be made.
 * `action` - A string giving the type of outgoing request that should be made.
 * `encoding` - A string giving the encoding used for outgoing requests.
-* `transform` - A string describing how the response should
+* `transform` - A string describing how the resulting document should be modified.
 * `description` - A string describing this link.
 * `fields` - A list of field instances.
 
